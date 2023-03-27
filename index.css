@@ -1,0 +1,116 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+#container{
+    background-color: rgba(15, 11, 11, 0.932);
+    
+}
+.back img{
+    position: absolute;
+    margin-left: 4rem;
+    padding:20px 550px;
+    height:70%;
+    margin-top: 48px;
+
+}
+.image img{
+padding:0px 20px;
+margin-top: -280px;
+position: relative;
+margin-bottom: 40px;
+z-index: 9;
+}
+.navbar{
+background-color:rgba(202, 123, 123, 0.932);
+/* margin: 0; */
+/* margin-left: 500px; */
+padding:2rem 1rem;
+margin-bottom: 1px;
+width:100%;
+/* margin-top:-70px; */
+z-index: 10;
+position: absolute;
+
+} 
+.navbar ul{
+    list-style: none;
+    justify-content:space-between;
+    display: flex;
+    gap:3.5rem;
+    /* padding:2rem 2rem; */
+    position: absolute;
+    margin-left: 650px;
+   
+}
+.navbar ul a{
+    text-decoration: none;
+    color:black;
+}
+.ba img{
+width:120px;
+height:80px;
+position:absolute;
+/* ]o */
+/* margin-top:-15px; */
+z-index: 11;
+}
+p{
+    color:white;
+    position:absolute;
+    font-size: 2rem;
+    margin-top: 180px;
+    margin-left: 60px;
+    z-index: 10;
+}
+strong{
+    color:black;
+}
+#container button{
+    margin-top: 255px;
+    margin-left: 600px;
+    padding: 10px 35px;
+    background-color: rgba(15, 11, 11, 0.932);
+    color:white;
+    border-radius: 5px;
+}
+.navbar ul a{
+    text-decoration: none;
+    color:black;
+}
+.bxl-facebook-circle{
+    color:black;
+    font-size: 3rem;
+    position:absolute;
+    margin-top: 570px;
+    z-index: 10;
+    margin-left: 300px;
+}
+.bxl-instagram-alt{
+    color:black;
+    font-size: 3rem;
+    position:absolute;
+    margin-top: 570px;
+    z-index: 10;
+    margin-left: 220px;
+}
+.bxl-whatsapp{
+    color:black;
+    font-size: 3rem;
+    position:absolute;
+    margin-top: 570px;
+   z-index: 10;
+   margin-left: 140px;
+}
+.footer{background-color:black;
+/* margin: 0; */
+/* margin-left: 500px; */
+padding:5rem 1rem;
+margin-top: 700px;
+width:100%;
+/* margin-top:-70px; */
+z-index: 10;
+position: absolute;
+
+} 
