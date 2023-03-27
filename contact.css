@@ -148,10 +148,19 @@ margin-top: 20px;
         color:black;
     }
     .ba img{
-    width:50px;
-    height:40px;
-    position:absolute;
-    margin-top: -25px;
-    margin-left: 30px;
-    
-    }
+      width:120px;
+      height:80px;
+      position:absolute;
+      /* ]o */
+      /* margin-top:-15px; */
+      z-index: 11;
+      }
+      button{
+         margin-left:40px;
+       border-radius: 20px;
+       width: 150pX;
+       padding: 10px 10px;
+       background-color: black;
+       color: WHITE;
+       margin-top: 10px;
+        }
